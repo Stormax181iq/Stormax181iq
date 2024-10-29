@@ -7,7 +7,7 @@ Apprentice developer
 I began occasionally learning to code in 2022, starting with HTML and CSS, but it remained as an activity I'd do to kill time. I'm now really serious about it as I want to make it my professional activity.
 
 * 🌍  I'm based in Gard, Occitanie, France
-* ✉️  You can contact me at [kelianchalier@gmail.com](mailto:kelianchalier@gmail.com)
+* ✉️  You can contact me at [kelianchalier@gmail.com](mailto:kelianchalier@protonmail.com)
 * 🧠  I'm learning Fullstack : Frontend, Backend and Devops principles
 * 🤝  I'm open to collaborating on simple projects, to get used to the social aspect of programming
 * ⚡  I'm French, but I can speak English (B2) and German (B1)
