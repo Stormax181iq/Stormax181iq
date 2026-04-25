@@ -10,7 +10,7 @@ I began occasionally learning to code in 2022, starting with HTML and CSS, but i
 *   ✉️  You can contact me at [kelianchalier@protonmail.com](mailto:kelianchalier@protonmail.com)
 *   🧠  I'm learning Fullstack and DevOps : Redis, Linux, AWS…
 *   🤝  I'm open to collaborating on projects with simple problems to solve, to get used to the social aspect of programming
-*   ⚡  I’m French, but I can speak English (B2) and German (B1)
+*   ⚡  I’m French, but I can speak English (C1) and German (B2)
 
 ### Skills 
 <p align="left">
